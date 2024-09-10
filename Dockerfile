@@ -34,6 +34,7 @@ RUN apk add \
         xfce4 \
         xfce4-pulseaudio-plugin \
         xfce4-terminal \
+        remmina \
         xrandr \
     --no-cache
 
